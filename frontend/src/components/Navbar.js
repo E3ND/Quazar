@@ -53,6 +53,12 @@ function Navbar() {
                             <AnchorLink href="#end" offset={100} className='nav-links'> Fundadores </AnchorLink>
 
                     </li>
+
+                    <li className='nav-item'>
+                       
+                            <AnchorLink href="#contactID" offset={100} className='nav-links'> Contato </AnchorLink>
+
+                    </li>
                     
 
                    

@@ -7,6 +7,7 @@ import MenuValues from '../components/MenuValues';
 
 import './Home.css';
 import '../components/Cards.css';
+import Contact from '../components/Contact';
 
 function Home() {
     return(
@@ -58,6 +59,8 @@ function Home() {
             
 
             <Cards />
+
+            <Contact/>
             
             <Footer />
         </>
