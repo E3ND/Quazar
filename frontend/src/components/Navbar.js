@@ -30,7 +30,7 @@ function Navbar() {
         <nav className='navbar'>
             <div className='navbar-container'>
                 <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-                <img src="../../images/logoQuazar.png" alt="Logo" />
+                <img src="../../images/BrancoQuazar.png" alt="Logo" />
                    
                 </Link>
                 <div className='menu-icon' onClick={handleClick}>

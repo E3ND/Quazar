@@ -28,7 +28,7 @@ function Footer() {
                 <div className="social-media-wrapper">
                     <div className="footer-logo">
                         <Link to="#" className="social-logo">
-                            <img src="../../images/logoQuazar.png" alt="Logo" />
+                            <img src="../../images/BrancoQuazar.png" alt="Logo" />
                             {/* Quazar */}
                             {/* <i className="fab fa-typo3"></i> */}
                         </Link>
