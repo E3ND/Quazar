@@ -13,7 +13,7 @@ function Cards() {
                         <CardItem 
                             src="images/Nicolas.jpeg"
                             text='Nickolas Alexandre, reponsavel por desenvolver o back-end'
-                            label='Desenvolvedor back-end'
+                            label='Desenvolvedor back-end e DBA'
                             // path='#'
                         />
                         <CardItem 
@@ -24,7 +24,7 @@ function Cards() {
                         />
                         <CardItem 
                             src="images/Hitalo.jpg"
-                            text='Hitalo Chave, responsavel pelo front-end e design da aplicação mobile.'
+                            text='Hitalo Chave, responsavel pelo front-end e design aplicativo mobile.'
                             label='Desenvolvedor font-end'
                             // path='#'
                         />
@@ -32,19 +32,19 @@ function Cards() {
                     <ul className='cards__items'>
                         <CardItem 
                             src="images/Maciel.jpeg"
-                            text='Pedro Maciel, reponsavel por desenvolver o back-end'
-                            label='Desenvolvedor back-end'
+                            text='Pedro Maciel, reponsavel por fazer as edições'
+                            label='Editor'
                             // path='#'
                         />
                         <CardItem 
                             src="images/Danilo.jpg"
-                            text='Danilo Claro, responsavel pelo desenvolvimento do banco de dados.'
-                            label='DBA'
+                            text='Danilo Claro, responsavel pelo desenvolvimento dos documentos do projeto.'
+                            label='Analista'
                             // path='#'
                         />
                         <CardItem 
                             src="images/Rickellme.jpg"
-                            text='Rickellme, responsavel pelo planejamento e desenvolvimento do projeto.'
+                            text='Rickellme, responsavel pelo planejamento projeto.'
                             label='Analista de projeto'
                             // path='#'
                         />

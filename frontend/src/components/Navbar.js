@@ -39,6 +39,11 @@ function Navbar() {
                 <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                     <li className='nav-item'>
                        
+                            <AnchorLink href="#First" offset={100} className='nav-links'>  Início </AnchorLink> 
+
+                    </li>
+                    <li className='nav-item'>
+                       
                             <AnchorLink href="#start" offset={100} className='nav-links'>  Quem nós somos </AnchorLink> 
 
                     </li>
